@@ -201,7 +201,7 @@ int main(){
                 }               
 
 /* *********************** wywolanie funkcji systemowych execiem ************************** */
-/* *********************** system functiona calling with exec ***************************** */
+/* *********************** system functions calling with exec ***************************** */
 
 /*jesli nie wywolano zadnej z powyzszych komend podaje komende z parametrami funkcjom systemowym*/
 
